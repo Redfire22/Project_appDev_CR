@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AppDev_Account-Consultation_Clément-Ramond"

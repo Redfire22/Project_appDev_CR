@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Consultator</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="view_account">View account</string>
+    <string name="refresh">Refresh</string>
+    <string name="text">Text</string>
+    <string name="textview">TextView</string>
+    <string name="online">On</string>
+    <string name="return1">Return</string>
+    <string name="delete_data"> Delete data</string>
+    <string-array name="list_account"></string-array>
+</resources>
