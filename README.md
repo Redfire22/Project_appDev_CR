@@ -1,9 +1,9 @@
-# Project_appDev_Cl-ment-Ramond
+# Project_appDev CR
 Project for the "Mobile Apps development" class for IOS 3.
 
 Mobile Apps development - lab3
 
-Clément Ramond
+CR
 
 In this repository, you will find my project for the lab3.
 
